@@ -2,6 +2,7 @@ from requests_html import HTMLSession
 from bs4 import BeautifulSoup
 
 
+# change to code
 s = HTMLSession()
 
 url = 'https://www.amazon.co.uk/s?k=dslr+camera&i=black-friday&ref=nb_sb_noss'
